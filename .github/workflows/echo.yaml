@@ -1,0 +1,6 @@
+name: Test echo
+on: issue
+jobs: 
+  echo:
+    runs-on: ubuntu-latest
+    steps:
